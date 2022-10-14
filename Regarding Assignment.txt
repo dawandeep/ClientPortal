@@ -1,0 +1,16 @@
+Dear Hiring,Technical Manager,
+Thanks for this great opportunity. 
+In this Assignment, I have used React Js as a Frontend and Express Js as a Backend with MongoDB as a database.
+In this project, I have created two rest full API 
+1. Auth API
+2. Client API
+The First API is responsible for login the admin into the main page with the help of JWT and Passport etc.
+The Second API is responsible for getting the clients and adding the client to our database.
+These two APIs are interlinked for authentication purposes. 
+In order to make the responsive front end, I have used Bootstrap 5, Material UI etc. 
+I have also used the context API for login and logout purposes.
+I have also uploaded the snapshot of the UI part.
+Thanks and Regards
+Dawandeep Singh
+7986092586
+
